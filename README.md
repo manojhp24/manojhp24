@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter and dart<br>👨‍💻 I’m currently working on E-commerce app<br>📑 check out my resume - <a href="link-to-your-resume" target="_blank">Myresume</a>
+🌱 I’m currently learning Flutter and dart<br>👨‍💻 I’m currently working on E-commerce app<br>📑 check out my resume - <a href="https://docs.google.com/document/d/1PYalj-pUME1GStUWpeFDxr9nBdpVjEhT_YCdFglx5hg/edit?usp=sharing" target="_blank">Myresume</a>
 <br>💬 Ask me about Programming,Flutter Development,Django Development<br>📫 reach out me at manojhp584@gmail.com
 
 
