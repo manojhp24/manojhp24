@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React JS and Node JS<br><br>👨‍💻 I’m currently working on Flutter Booking System-MyEventTracker<br><br>📑 check out my resume - <a href="https://docs.google.com/document/d/1PYalj-pUME1GStUWpeFDxr9nBdpVjEhT_YCdFglx5hg/edit?usp=sharing" target="_blank">Myresume</a>
+🌱 I’m currently learning React JS and Node JS<br><br>👨‍💻 I’m currently working on Flutter Booking System-BookMyEvent<br><br>📑 check out my resume - <a href="https://docs.google.com/document/d/1PYalj-pUME1GStUWpeFDxr9nBdpVjEhT_YCdFglx5hg/edit?usp=sharing" target="_blank">Myresume</a>
 <br><br>💬 Ask me about Programming,MachineLearning, AI, DeepLearning<br><br>📫 reach out me at manojhp584@gmail.com
 
 
