@@ -1,8 +1,8 @@
 # Hi, I'm Manoj HP 👋  
 **Mobile Developer (Flutter) | Full Stack Developer**
 
-I build practical products that solve real problems.  
-Interested in scalable systems, clean architecture, and turning ideas into usable applications.
+I build real-world products that solve practical problems.  
+I focus on scalability, clean architecture, and delivering reliable applications used in real environments.
 
 ---
 
@@ -11,32 +11,42 @@ Interested in scalable systems, clean architecture, and turning ideas into usabl
 **Languages**  
 Python • Dart • Java
 
-**Backend / Database**  
-Django • Firebase • MySQL • PostgreSQL
-
 **Frontend**  
 HTML • CSS • JavaScript • React JS • Tailwind CSS
+
+**Backend / Database**  
+Django • Firebase • MySQL • PostgreSQL
 
 **Mobile**  
 Flutter
 
 ---
 
+## 💪 Strengths
+Application architecture • API integration • Database design • End-to-end product development
+
+---
+
 ## 📌 Featured Projects
 
 ### 🎓 EduTrack  
-ERP web application for schools and colleges.
+An ERP web application for schools and colleges.
 
 ### 🧾 MyQuotationGenerator  
-Flutter-based quotation management app to manage customers, products, and generate quotations.
+A Flutter-based quotation management app for handling customers, products, and quotation generation.
 
 ### 🧠 Invoice Automation  
-Desktop invoice automation system built with Python and CustomTkinter, including PDF invoice generation.
+A desktop invoice automation system built with Python and CustomTkinter, with PDF invoice generation.
 
 ---
 
 ## 🌱 Currently Focused On
 Building scalable applications.
+
+---
+
+## 🎯 Open To
+Internships • Entry-level roles • Collaboration on innovative products
 
 ---
 
@@ -46,4 +56,4 @@ Email – manojhp584@gmail.com
 
 ---
 
-⭐ Always open to collaborating on interesting products and innovative ideas.
+⭐ Passionate about building impactful software and continuously improving as an engineer.
