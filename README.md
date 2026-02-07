@@ -38,8 +38,8 @@ Building scalable applications.
 ---
 
 ## 🤝 Connect With Me
-LinkedIn  
-Email
+LinkedIn - https://www.linkedin.com/in/manoj-hp/
+Email - manojhp584@gmail.com
 
 ---
 
