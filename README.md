@@ -14,6 +14,9 @@ Python • Dart • Java
 **Backend / Database**  
 Django • Firebase • MySQL • PostgreSQL
 
+**Frontend**  
+HTML • CSS • JavaScript • React JS • Tailwind CSS
+
 **Mobile**  
 Flutter
 
