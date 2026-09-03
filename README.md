@@ -71,7 +71,6 @@ A digital Know Your Customer (eKYC) application designed to streamline identity 
 
 * Advanced RAG Architectures
 * AI Agents & Multi-Agent Systems
-* Cloud Deployment & DevOps
 * Scalable Backend Systems
 
 ---
